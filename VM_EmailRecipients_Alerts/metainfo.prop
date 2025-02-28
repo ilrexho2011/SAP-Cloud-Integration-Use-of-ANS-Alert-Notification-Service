@@ -1,0 +1,5 @@
+#Store metainfo properties
+#Sun Feb 16 15:05:22 UTC 2025
+description=This value mapping is used to dynamically assign email recipients for alert notifications based on the interface name. If an interface is not found in the mapping, the email is sent to the default recipient configured in the defaultToMail parameter in the iFlow.
+source=
+target=
